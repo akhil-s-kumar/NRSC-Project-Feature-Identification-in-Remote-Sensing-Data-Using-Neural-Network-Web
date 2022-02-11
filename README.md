@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# NRSC Project Frontend WebApp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p text-align="left">
+    <a href="https://github.com/akhil-s-kumar/NRSC-Project-Feature-Identification-in-Remote-Sensing-Data-Using-Neural-Network-Web/issues" alt="Issues">
+        <img src="https://img.shields.io/github/issues/akhil-s-kumar/NRSC-Project-Feature-Identification-in-Remote-Sensing-Data-Using-Neural-Network-Web" /></a>
+    <a href="https://github.com/akhil-s-kumar/NRSC-Project-Feature-Identification-in-Remote-Sensing-Data-Using-Neural-Network-Web/pulls" alt="Pull Requests">
+        <img src="https://img.shields.io/github/issues-pr/akhil-s-kumar/NRSC-Project-Feature-Identification-in-Remote-Sensing-Data-Using-Neural-Network-Web" /></a>
+    <a href="https://github.com/akhil-s-kumar/NRSC-Project-Feature-Identification-in-Remote-Sensing-Data-Using-Neural-Network-Web/network/members" alt="Forks">
+        <img src="https://img.shields.io/github/forks/akhil-s-kumar/NRSC-Project-Feature-Identification-in-Remote-Sensing-Data-Using-Neural-Network-Web" /></a>
+    <a href="https://github.com/akhil-s-kumar/NRSC-Project-Feature-Identification-in-Remote-Sensing-Data-Using-Neural-Network-Web/stargazers" alt="Stars">
+        <img src="https://img.shields.io/github/stars/akhil-s-kumar/NRSC-Project-Feature-Identification-in-Remote-Sensing-Data-Using-Neural-Network-Web" /></a>
+</p>
 
-## Available Scripts
+This project is a react-based frontend framework for my NRSC Project WebApp. 
 
-In the project directory, you can run:
+## :minidisc: Installation Instructions
 
-### `npm start`
+If you want to work with this project or create a version of it make sure to follow the steps below!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+0. Make sure you have installed [Wegan Backend Framework](https://github.com/akhil-s-kumar/Wegan-Framework)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Make sure that you have `node` installed already.
 
-### `npm test`
+2. Make sure you are running the backend framework
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. open a new terminal
 
-### `npm run build`
+4. Switch to your base project directory `Wegan`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+5. Clone the WebApp repository
+```bash
+    $ git clone https://github.com/akhil-s-kumar/NRSC-Project-Feature-Identification-in-Remote-Sensing-Data-Using-Neural-Network-Web.git
+    $ cd NRSC-Project-Feature-Identification-in-Remote-Sensing-Data-Using-Neural-Network-Web
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+You have now successfully set up the webapp project locally.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## :rocket: How to run  the project?
 
-### `npm run eject`
+Make sure you are inside `NRSC-Project-Feature-Identification-in-Remote-Sensing-Data-Using-Neural-Network-Web` folder
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Install all the dependencies
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+    $ npm install
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. Run the WebApp
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+    $ npm start
+```
 
-## Learn More
+## :wrench: Tech Stacks
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* **Framework:** React JS
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## :gem: Contributors
 
-### Code Splitting
+1. [Akhil S Kumar](https://github.com/akhil-s-kumar) - Core Developer and Maintainer
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### How to Contribute?
+1. Fork this repository to your GitHub account
+2. Follow the above installation process.
+3. Find an issue or feature, and work on it.
+4. Push your contribution to your forked repo and make a pull request.
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### Note: Change the remote repository to your forked one before pushing.
